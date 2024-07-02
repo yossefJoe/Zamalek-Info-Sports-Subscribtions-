@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337744938111",
+    "project_id": "zamalek-3d435",
+    "storage_bucket": "zamalek-3d435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337744938111:android:52874b008e20eaaff8eb4a",
+        "android_client_info": {
+          "package_name": "com.example.new_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-98i75lZ_kB9Voll3ypUaW8F-OrT9NwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
